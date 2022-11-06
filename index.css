@@ -1,0 +1,203 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+header {
+    height: 10px;
+    display: flex;
+}
+.logo {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.home {
+    width: 81px;
+    height: 50px;
+    border-radius:12px;
+    background-color: white;
+    border: white;
+    margin-left: 430px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.home:hover {
+    background-color: maroon;
+    color: white;
+}
+.member {
+    width: 140px;
+    height: 50px;
+    border-radius:12px;
+    background-color: white;
+    border: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.member:hover {
+    background-color: maroon;
+    color: white;
+}
+.intro1 {
+    display: flex;
+    margin-top: 100px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 430px;
+}
+.intro2 {
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-right: 440px;
+}
+.intro3 {
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-right: 440px;
+}
+.pic1 {
+    display: flex;
+    margin-top: 120px;
+    margin-left: 120px;
+}
+.ban1des {
+    margin-top: 70px;
+}
+.ban1a {
+    margin-top: 20px;
+    margin-left: 470px;
+}
+.ban1atitle {
+    margin-left: 455px;
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+.ban1ades {
+    font-family:sans-serif;
+    font-size: 20px;
+    color: rgb(73, 73, 73);
+    text-align: center;
+    margin-left: 380px;
+    margin-right: 220px;
+}
+.pic2 {
+    display: flex;
+    margin-top: 140px;
+    margin-left: 120px;
+}
+.ban2des {
+    margin-top: 70px;
+}
+.ban2a {
+    margin-top: 20px;
+    margin-left: 180px;
+}
+.ban2atitle {
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+    margin-left: 160px;
+}
+.ban2ades {
+    font-family:sans-serif;
+    font-size: 20px;
+    color: rgb(73, 73, 73);
+    text-align: center;
+    margin-left: 75px;
+    margin-right: 400px;
+}
+.ban2abanner {
+    float: right;
+    margin-right: 120px;
+}
+.ban3 {
+    margin-top: 120px;
+    margin-left: 640px;
+}
+.ban3title {
+    font-family:sans-serif;
+    font-size: 35px;
+    font-weight: 100;
+    margin-left: 580px;
+}
+.ban3des {
+    font-family:sans-serif;
+    font-size: 25px;
+    color: rgb(73, 73, 73);
+    text-align: center;
+    margin-left: 10px;
+}
+.iu1 {
+    margin-left: 80px;
+}
+.iu2 {
+    margin-left: 100px;
+}
+.iu3 {
+    margin-left: 100px;
+}
+.picdes {
+    display: flex;
+}
+.picdes1 {
+    margin-left: 150px;
+    border-radius: 100px;
+}
+.picdes1a {
+    font-family:sans-serif;
+    margin-left: 30px;
+}
+.picdes2 {
+    margin-left: 260px;
+    border-radius: 100px;
+}
+.picdes2a {
+    font-family:sans-serif;
+    margin-left: 30px;
+}
+.picdes3 {
+    margin-left: 260px;
+    border-radius: 100px;
+}
+.picdes3a {
+    font-family:sans-serif;
+    margin-left: 30px;
+}
+footer {
+    display: flex;
+    background-color: rgb(65, 65, 65);
+    margin-top: 20px;
+    color: white;
+    height: 100px;
+    padding-bottom: 30px;
+}
+.cr {
+    font-family:sans-serif;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.twt {
+    margin-top: 70px;
+    margin-left: 0px;
+}
+.ig {
+    margin-top: 70px;
+    margin-left: 0px;
+}
+.fb {
+    margin-top: 70px;
+    margin-left: 0px;
+}

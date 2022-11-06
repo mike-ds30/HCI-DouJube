@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+header {
+    height: 10px;
+    display: flex;
+}
+.logo {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.home {
+    width: 81px;
+    height: 50px;
+    border-radius:12px;
+    background-color: white;
+    border: white;
+    margin-left: 430px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.home:hover {
+    background-color: maroon;
+    color: white;
+}
+.member {
+    width: 140px;
+    height: 50px;
+    border-radius:12px;
+    background-color: white;
+    border: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.member:hover {
+    background-color: maroon;
+    color: white;
+}
+.txt {
+    font-family: sans-serif;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+main {
+    height: 500px;
+    padding-top: 50px;
+    font-family:sans-serif;
+    display: flex;
+}
+.forms {
+    text-align: center;
+    margin-left: 350px;
+    font-size: 25px;
+    margin-top: 60px;
+}
+footer {
+    display: flex;
+    background-color: rgb(65, 65, 65);
+    margin-top: 20px;
+    color: white;
+    height: 100px;
+    padding-bottom: 30px;
+}
+.cr {
+    font-family:sans-serif;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.twt {
+    margin-top: 70px;
+    margin-left: 0px;
+}
+.ig {
+    margin-top: 70px;
+    margin-left: 0px;
+}
+.fb {
+    margin-top: 70px;
+    margin-left: 0px;
+}
